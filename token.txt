@@ -1,0 +1,10 @@
+{
+  type: 'token',
+  tokenType: 'installation',
+  token: 'ghs_ch1s6bav31dx2xG19Wcxxa6BD0wEyn4S4it1',
+  installationId: 45749570,
+  permissions: {},
+  createdAt: '2024-01-04T14:30:13.698Z',
+  expiresAt: '2024-01-04T15:30:13Z',
+  repositorySelection: 'selected'
+}
